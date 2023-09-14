@@ -1,0 +1,6 @@
+- Making a GraphQL Server with Apollo
+- Schema & Types
+- typedefs & resolvers
+- Query Variables
+- Related Data
+- Mutations & update Mutation
