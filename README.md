@@ -3,4 +3,5 @@
 - typedefs & resolvers
 - Query Variables
 - Related Data
-- Mutations & update Mutation
+- Mutations
+  - add, delete, update
